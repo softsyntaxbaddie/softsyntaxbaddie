@@ -1,16 +1,21 @@
-## Hi there 👋, I'm Maryam!
+# Hi there 👋, I'm Maryam!  
+🎓 Informatics Student | 💻 Beginner C++ & Python Coder | 🚀 Exploring the world of tech
 
-<!--
-**softsyntaxbaddie/softsyntaxbaddie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Skills
+- Programming: C++, Python  
+- Tools: Git, GitHub, VS Code  
+- Concepts: Databases, Algorithms, Human-Computer Interaction (HCI)
 
-Here are some ideas to get you started:
+## 🔗 Projects
+- **Mom’s Age Calculator** – Fun little project to calculate your mom’s age when you were born 😄  
+- **Simple Games** – Learning to make Python games 🎮  
+- **Database Practice** – Car dealership & sales database exercises 🏎️  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Advanced C++ & Python  
+- Web basics (HTML, CSS)  
+- Data Structures & Algorithms
+
+## 💬 Fun Fact
+I love turning coding exercises into small quirky projects – like calculating random things for fun! 😆  
+

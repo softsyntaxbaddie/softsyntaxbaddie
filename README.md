@@ -1,5 +1,6 @@
 ## 👋Hi there , I'm Maryam!
 💻 Informatics student | Beginner C++ programmer | Always learning 🌱
+<img src="https://raw.githubusercontent.com/softsyntaxbaddie/shine/main/shine.gif" width="100"/>
      <div align="center">
 Welcome to my little corner of GitHub! ☕
 </div>

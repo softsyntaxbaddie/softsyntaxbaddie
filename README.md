@@ -6,7 +6,7 @@
       <img src="https://raw.githubusercontent.com/softsyntaxbaddie/shine/main/shine.gif" width="150"/>
     </td>
     <td>
-      <h1>🍪</h1>
+      
       💻 Informatics student | Beginner C++ programmer | Always learning 🌱<br>
       Welcome to my little corner of GitHub! ☕
     </td>

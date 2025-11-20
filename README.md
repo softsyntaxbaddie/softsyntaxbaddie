@@ -7,7 +7,7 @@
 Welcome to my little corner of GitHub! ☕
 </div>
 
-<img src="https://raw.githubusercontent.com/softsyntaxbaddie/shine/main/coding.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/softsyntaxbaddie/shine/main/coding.gif" width="100%" height="150"/>
 
 ## 🌟 GitHub Stats
  

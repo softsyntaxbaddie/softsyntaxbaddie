@@ -1,6 +1,9 @@
 ## 👋Hi there , I'm Maryam!
+
+  <div align="center">
+
 💻 Informatics student | Beginner C++ programmer | Always learning 🌱
-     <div align="center">
+    
 Welcome to my little corner of GitHub! ☕
 </div>
 

@@ -1,9 +1,8 @@
 
 
-# (bow)Hi there!👋 I'm Maryam (softsyntaxbaddie) 🌸
+# 🍪Hi there!👋 I'm Maryam (softsyntaxbaddie) 🍪
 💻 Informatics student | Beginner C++ programmer | Always learning 🌱  
-Welcome to my little corner of GitHub! ❤️
-
+Welcome to my little corner of GitHub! ☕
 ###
 ![Shine GIF](https://raw.githubusercontent.com/softsyntaxbaddie/shine/main/shine.gif)
  

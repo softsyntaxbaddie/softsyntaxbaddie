@@ -5,7 +5,7 @@
     <td style="border: none;">
       <img src="https://raw.githubusercontent.com/softsyntaxbaddie/shine/main/shine.gif" width="200"/>
     </td>
-    <td style="border: none; padding-left: 5px;font-size: 20px">
+    <td style="border: none; padding-left: 5px;font-size: 50px">
       
       💻 Informatics student | Beginner C++ programmer | Always learning 🌱
       Welcome to my little corner of GitHub! ☕

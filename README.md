@@ -9,7 +9,7 @@
       
       💻 Informatics student | Beginner C++ programmer | Always learning 🌱
       Welcome to my little corner of GitHub! ☕
-    </td>
+    
   </tr>
 </table>
 

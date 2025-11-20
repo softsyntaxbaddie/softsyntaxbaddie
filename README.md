@@ -1,11 +1,17 @@
 
 
-# 🍪Hi there!👋 I'm Maryam (softsyntaxbaddie) 🍪
-💻 Informatics student | Beginner C++ programmer | Always learning 🌱  
-Welcome to my little corner of GitHub! ☕
-###
-![Shine GIF](https://raw.githubusercontent.com/softsyntaxbaddie/shine/main/shine.gif)
- 
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/softsyntaxbaddie/shine/main/shine.gif" width="150"/>
+    </td>
+    <td>
+      <h1>🍪</h1>
+      💻 Informatics student | Beginner C++ programmer | Always learning 🌱<br>
+      Welcome to my little corner of GitHub! ☕
+    </td>
+  </tr>
+</table>
 
 
 

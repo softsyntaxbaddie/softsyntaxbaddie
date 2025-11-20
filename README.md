@@ -1,6 +1,7 @@
 
 ## <div align="center"> Hey there , I'm Maryam!🧸
 
+<div align="center">
 💻 Informatics student | Coding Newbie | Always learning 🌱
     
 Welcome to my little corner of GitHub! ☕

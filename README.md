@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Maryam!  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)# Hi there 👋, I'm Maryam!  
 🎓 Informatics Student | 💻 Beginner C++ & Python Coder | 🚀 Exploring the world of tech
 
 ## 🛠 Skills
@@ -20,3 +20,4 @@
 I love turning coding exercises into small quirky projects – like calculating random things for fun! 😆  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=softsyntaxbaddie&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=softsyntaxbaddie&layout=compact&theme=tokyonight)

@@ -1,6 +1,6 @@
 
 
-# 🌸 Hi there!👋 I'm Maryam (softsyntaxbaddie) 🌸
+# (bow)Hi there!👋 I'm Maryam (softsyntaxbaddie) 🌸
 💻 Informatics student | Beginner C++ programmer | Always learning 🌱  
 Welcome to my little corner of GitHub! ❤️
 

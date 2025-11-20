@@ -19,3 +19,4 @@
 ## 💬 Fun Fact
 I love turning coding exercises into small quirky projects – like calculating random things for fun! 😆  
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=softsyntaxbaddie&show_icons=true&theme=tokyonight)

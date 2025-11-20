@@ -1,6 +1,7 @@
+<div align="center">
 ## 👋Hi there , I'm Maryam!
 
-  <div align="center">
+  
 
 💻 Informatics student | Beginner C++ programmer | Always learning 🌱
     

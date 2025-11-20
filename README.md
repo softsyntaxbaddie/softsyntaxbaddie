@@ -1,7 +1,7 @@
 
 
 # 🌸 Hi there!👋 I'm Maryam (softsyntaxbaddie) 🌸
-![Coding](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
+![Desk Setup](https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif)
 
 💻 Informatics student | Beginner C++ programmer | Always learning 🌱  
 Welcome to my little corner of GitHub! ❤️

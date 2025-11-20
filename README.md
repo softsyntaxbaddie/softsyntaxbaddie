@@ -7,7 +7,7 @@
 Welcome to my little corner of GitHub! ☕
 </div>
 
-##![coding gif](https://raw.githubuser content.com/softsyntaxbaddie/shine/blob/main/coding.gif)
+<img src="https://raw.githubusercontent.com/softsyntaxbaddie/shine/main/coding.gif" width="100"/>
 
 ## 🌟 GitHub Stats
  

@@ -5,7 +5,11 @@
 Welcome to my little corner of GitHub! ❤️
 
 ###
-![Shine GIF](https://raw.githubusercontent.com/softsyntaxbaddie/shine/main/shine.gif)
+![Shine GIF](https://raw.githubusercontent.com/softsyntaxbaddie/shine/main/shine.gif)🌟 GitHub Stats
+ 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=softsyntaxbaddie&layout=compact&theme=tokyonight)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=softsyntaxbaddie&theme=tokyonight)
+
 
 
 

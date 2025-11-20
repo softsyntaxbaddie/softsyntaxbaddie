@@ -9,9 +9,8 @@
       
       💻 Informatics student | Beginner C++ programmer | Always learning 🌱
       Welcome to my little corner of GitHub! ☕
-    
-  </tr>
-</table>
+    </td>
+ 
 
 
 ## 🌟 GitHub Stats

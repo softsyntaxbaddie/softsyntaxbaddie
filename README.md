@@ -3,11 +3,11 @@
 <table>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/softsyntaxbaddie/shine/main/shine.gif" width="150"/>
+      <img src="https://raw.githubusercontent.com/softsyntaxbaddie/shine/main/shine.gif" width="180"/>
     </td>
     <td>
       
-      💻 Informatics student | Beginner C++ programmer | Always learning 🌱<br>
+      💻 Informatics student | Beginner C++ programmer | Always learning 🌱
       Welcome to my little corner of GitHub! ☕
     </td>
   </tr>

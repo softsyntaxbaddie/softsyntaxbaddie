@@ -4,7 +4,10 @@
 💻 Informatics student | Beginner C++ programmer | Always learning 🌱  
 Welcome to my little corner of GitHub! ❤️
 
+###Girly Fun
 ![shine GIF](https://raw.githubuser content.com/softsyntaxbaddie/shine/blob/main/shine.gif)
+
+
 --------------------------------------------------------------------------------------------------------
 
 ## 🌟 GitHub Stats

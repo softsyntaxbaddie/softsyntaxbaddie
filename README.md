@@ -1,20 +1,5 @@
 ## 👋Hi there , I'm Maryam!
 💻 Informatics student | Beginner C++ programmer | Always learning 🌱
-
-<table width="100%" style="border: none; border-collapse: collapse;">
-  <tr>
-    <td align="left" style="border: none;">
-      <img src="https://raw.githubusercontent.com/softsyntaxbaddie/shine/main/shine.gif" width="100"/>
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://raw.githubusercontent.com/softsyntaxbaddie/shine/main/shine.gif" width="100"/>
-    </td>
-    <td align="right" style="border: none;">
-      <img src="https://raw.githubusercontent.com/softsyntaxbaddie/shine/main/shine.gif" width="100"/>
-    </td>
-  </tr>
-</table>
-
      <div align="center">
 Welcome to my little corner of GitHub! ☕
 </div>

@@ -18,9 +18,11 @@ Welcome to my little corner of GitHub! ☕
 
 ## 🛠️ Skills
 - **Languages:** C++, Python, HTML/CSS basics  
+- **IBM Badge:**Python for Data Science 
 - **Tools:** VS Code, CodeBlocks, Git/GitHub  
 - **Concepts:** Loops, conditionals, functions, arrays    
 - **GitHub/Markdown Skills:** Embedding GIFs, resizing images, aligning content
+- **IBM Badge:**Python for Data Science 
 ---
 
 ## 📂 Projects

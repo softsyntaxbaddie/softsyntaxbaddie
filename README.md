@@ -30,7 +30,6 @@ Welcome to my little corner of GitHub! ☕
 - 🌡️ **Fahrenheit → Celsius** – Simple converter using variables & formulas  
 - 🔐 **Login System** – Username/password check, 3 attempts, loops & conditionals  
 
-*(Links to code in respective repos)*
 
 ---
 

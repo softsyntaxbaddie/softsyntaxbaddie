@@ -1,4 +1,4 @@
-###👋Hi there , I'm Maryam!
+##👋Hi there , I'm Maryam!
 
 <table style="border: none; border-collapse: collapse;">
   <tr>
@@ -6,7 +6,7 @@
       <img src="https://raw.githubusercontent.com/softsyntaxbaddie/shine/main/shine.gif" width="150"/>
     </td>
     <td style="border: none; padding-left: 15px;">
-      <h1>🍪</h1>
+      
       💻 Informatics student | Beginner C++ programmer | Always learning 🌱<br>
       Welcome to my little corner of GitHub! ☕
     </td>

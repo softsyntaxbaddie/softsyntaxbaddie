@@ -3,7 +3,7 @@
 <table style="border: none; border-collapse: collapse;">
   <tr>
     <td style="border: none;">
-      <img src="https://raw.githubusercontent.com/softsyntaxbaddie/shine/main/shine.gif" width="600"/>
+      <img src="https://raw.githubusercontent.com/softsyntaxbaddie/shine/main/shine.gif" width="200"/>
     </td>
     <td style="border: none; padding-left: 10px;">
       

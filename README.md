@@ -5,7 +5,7 @@
 Welcome to my little corner of GitHub! ❤️
 
 ### ✨ Girly Fun GIF ✨
-![Shine GIF](https://raw.githubusercontent.com/softsyntaxbaddie/shine/main/shine.gif)
+![Shine GIF](https://raw.githubusercontent.com/softsyntaxbaddie/shine/main/shine.gif)![Shine GIF](https://raw.githubusercontent.com/softsyntaxbaddie/shine/main/shine.gif)![Shine GIF](https://raw.githubusercontent.com/softsyntaxbaddie/shine/main/shine.gif)
 
 
 

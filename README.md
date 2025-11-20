@@ -1,9 +1,9 @@
 
-## <div align="center"> Hey there , I'm Maryam!(softsyntaxbaddie)🍒
+## <div align="center"> Hey there , I'm Maryam!🧸
 
   
 
-💻 Informatics student | Beginner C++ programmer | Always learning 🌱
+💻 Informatics student | Coding Newbie | Always learning 🌱
     
 Welcome to my little corner of GitHub! ☕
 </div>

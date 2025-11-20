@@ -1,6 +1,7 @@
 
 
 # 🌸 Hi there!👋 I'm Maryam (softsyntaxbaddie) 🌸
+![Coding](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
 
 💻 Informatics student | Beginner C++ programmer | Always learning 🌱  
 Welcome to my little corner of GitHub! ❤️
@@ -27,11 +28,6 @@ Welcome to my little corner of GitHub! ❤️
 - 🔐 **Login System** – Username/password check, 3 attempts, loops & conditionals  
 
 *(Links to code in respective repos)*
-
----
-
-Or a cute GIF:  
-![Coding](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
 
 ---
 

@@ -1,10 +1,19 @@
 ## 👋Hi there , I'm Maryam!
 💻 Informatics student | Beginner C++ programmer | Always learning 🌱
+<!-- Left-aligned GIF -->
+<div align="left">
+  <img src="https://raw.githubusercontent.com/softsyntaxbaddie/shine/main/shine.gif" width="100"/>
+</div>
 
-<img src="https://raw.githubusercontent.com/softsyntaxbaddie/shine/main/shine.gif" width="100"/>
-<img src="https://raw.githubusercontent.com/softsyntaxbaddie/shine/main/shine.gif" width="100"/>
-<img src="https://raw.githubusercontent.com/softsyntaxbaddie/shine/main/shine.gif" width="100"/>
+<!-- Centered GIF -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/softsyntaxbaddie/shine/main/shine.gif" width="100"/>
+</div>
 
+<!-- Right-aligned GIF -->
+<div align="right">
+  <img src="https://raw.githubusercontent.com/softsyntaxbaddie/shine/main/shine.gif" width="100"/>
+</div>
 
      <div align="center">
 Welcome to my little corner of GitHub! ☕

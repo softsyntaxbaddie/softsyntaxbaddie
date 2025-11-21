@@ -54,4 +54,4 @@ Learning by doing: applying C++ concepts, practicing loops/conditions, structuri
 
 ## 📫 Connect with Me
 
-- [Email](mailto: maryamburo3@gmail.com)
+- [Email](mail to: maryamburo3@gmail.com)

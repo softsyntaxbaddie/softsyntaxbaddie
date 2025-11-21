@@ -29,6 +29,8 @@ Welcome to my little corner of GitHub! ☕
 - 🌱 **Hello World (C++)** – First C++ program, prints “Hello World”  
 - 🌡️ **Fahrenheit → Celsius** – Simple converter using variables & formulas  
 - 🔐 **Login System** – Username/password check, 3 attempts, loops & conditionals  
+- 👶 **MomsAge Calculator** – Calculates your mom’s age based on your birth year  
+- 💻 **My First Portfolio** – My beginner portfolio website built with HTML & CSS
 
 
 ---

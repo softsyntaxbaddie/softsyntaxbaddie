@@ -18,7 +18,7 @@ Welcome to my little corner of GitHub! ☕
 
 ## 🛠️ Skills
 - **Languages:** C++, Python, HTML/CSS basics  
-- **IBM Badge:**Python for Data Science 
+- **IBM Badge:** Python for Data Science 
 - **Tools:** VS Code, CodeBlocks, Git/GitHub  
 - **Concepts:** Loops, conditionals, functions, arrays    
 - **GitHub/Markdown Skills:** Embedding GIFs, resizing images, aligning content
@@ -31,6 +31,7 @@ Welcome to my little corner of GitHub! ☕
 - 🔐 **Login System** – Username/password check, 3 attempts, loops & conditionals  
 - 👶 **MomsAge Calculator** – Calculates your mom’s age based on your birth year  
 - 💻 **My First Portfolio** – My beginner portfolio website built with HTML & CSS
+-    **Randomised-mood-generator** - give randomised messages to a user based on their mood
 
 
 ---

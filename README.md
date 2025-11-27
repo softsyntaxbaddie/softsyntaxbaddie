@@ -31,7 +31,7 @@ Welcome to my little corner of GitHub! ☕
 - 🔐 **Login System** – Username/password check, 3 attempts, loops & conditionals  
 - 👶 **MomsAge Calculator** – Calculates your mom’s age based on your birth year  
 - 💻 **My First Portfolio** – My beginner portfolio website built with HTML & CSS
--    **Randomised-mood-generator** - give randomised messages to a user based on their mood
+- 😁 **Randomised-mood-generator** - give randomised messages to a user based on their mood
 
 
 ---

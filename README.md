@@ -31,7 +31,7 @@ Welcome to my little corner of GitHub! ☕
 - 👶 **MomsAge Calculator** – Calculates your mom’s age based on your birth year  
 - 💻 **My First Portfolio** – My beginner portfolio website built with HTML & CSS
 - 😁 **Randomised-mood-generator** - give randomised messages to a user based on their mood
--    **Rock-Paper-Scissors** -  Python game where you play Rock, Paper, Scissors against the computer
+- 🎮 **Rock-Paper-Scissors** -  Python game where you play Rock, Paper, Scissors against the computer
 
 
 ---

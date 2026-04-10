@@ -12,8 +12,7 @@ Welcome to my little corner of GitHub! ☕
 ## 🌟 GitHub Stats
 
  
-![TopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=softsyntaxbaddie&layout=compact)  
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=softsyntaxbaddie&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 

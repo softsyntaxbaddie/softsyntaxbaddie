@@ -9,8 +9,6 @@ Welcome to my little corner of GitHub! ☕
 
 <img src="https://raw.githubusercontent.com/softsyntaxbaddie/shine/main/coding.gif" width="100%" height="130"/>
 
-## 🌟 GitHub Stats
-
  
 
 ---

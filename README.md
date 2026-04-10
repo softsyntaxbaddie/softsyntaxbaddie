@@ -10,8 +10,9 @@ Welcome to my little corner of GitHub! ☕
 <img src="https://raw.githubusercontent.com/softsyntaxbaddie/shine/main/coding.gif" width="100%" height="130"/>
 
 ## 🌟 GitHub Stats
+
  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=softsyntaxbaddie&layout=compact&theme=tokyonight)  
+![TopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=softsyntaxbaddie&layout=compact&theme=tokyonight)  
 
 
 ---
@@ -55,4 +56,4 @@ Learning by doing: applying C++ concepts, practicing loops/conditions, structuri
 
 ## 📫 Connect with Me
 
-- [Email](mail to: maryamburo3@gmail.com)
+- [Email](mail to: thatismaryam@gmail.com)
